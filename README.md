@@ -23,7 +23,8 @@ Sitio Web: [Ignacio Leonel Maldonado](https://www.nachoweb.com.ar)
 
 ### 🎂 [Pastelería](https://github.com/ignacio-leonel/pasteleria)
 Sitio web estático para un local de pastelería. Incluye catálogo, formulario de contacto y galería de productos. Proyecto simple pero cuidado, orientado a mostrar estructura clara y diseño funcional.
-
+CÓDIGO: https://github.com/ignacio-leonel/pasteleria
+SITIO EN VERCEL: https://pasteleria-rose.vercel.app/
 ---
 
 ### 🖋️ [TatooFem](https://github.com/ignacio-leonel/tatoofem)
