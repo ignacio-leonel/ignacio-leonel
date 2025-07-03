@@ -25,7 +25,7 @@ Typescript, React, Tailwind, Vercel, Git.
 🔗 [Código](https://github.com/ignacio-leonel/pasteleria)
 
 
-![Gallery](https://github.com/ignacio-leonel/pasteleria/screenshots/gallery.jpg)
+![Gallery](/pasteleria/screenshots/gallery.jpg)
 
 ---
 
