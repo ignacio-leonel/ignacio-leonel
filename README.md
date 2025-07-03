@@ -34,6 +34,9 @@ Página desarrollada para un estudio de tatuajes femeninos.
 🎨 Diseño estético adaptado al estilo del estudio  
 💬 Galería · Info del lugar · Contacto  
 
+![Gallery](https://github.com/ignacio-leonel/Sitio-web-de-Local-de-Tatuajes/blob/96dcf428b38118f6a5594bc00aaa22fd7fb6722a/screenshots/services.jpg)
+
+
 React, Tailwind, Vercel, Git
 > *Podés descargar el código y adaptarlo a tu gusto.*
 
