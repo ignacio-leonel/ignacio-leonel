@@ -24,6 +24,8 @@ Sitio web estático para un emprendimiento local.
 Typescript, React, Tailwind, Vercel, Git.
 🔗 [Código](https://github.com/ignacio-leonel/pasteleria)
 
+screenshots/gallery.jpg
+
 ---
 
 ### 🖋️ TatooFem
