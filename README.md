@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Ignacio Leonel Maldonado
 
-**Desarrollador Full-Stack**  
+**Desarrollador Front end jr con conocimientos de Back, SEO**  
 💻 JavaScript · TypeScript · Python · Java · React · Node.js  
 📍 José C. Paz, Buenos Aires, Argentina  
 🔗 [LinkedIn](https://www.linkedin.com/in/ignacio-leonel-maldonado) · [Sitio Web - Nacho Web](https://nachoweb.ar)  
