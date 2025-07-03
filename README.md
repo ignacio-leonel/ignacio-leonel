@@ -21,6 +21,7 @@
 ### 🍰 [Pastelería](https://pasteleria-rose.vercel.app/)
 Sitio web estático para un emprendimiento local.  
 ✅ Catálogo · Formulario de contacto · Galería de productos  
+Typescript, React, Tailwind, Vercel, Git.
 🔗 [Código](https://github.com/ignacio-leonel/pasteleria)
 
 ---
@@ -29,6 +30,8 @@ Sitio web estático para un emprendimiento local.
 Página desarrollada para un estudio de tatuajes femeninos.  
 🎨 Diseño estético adaptado al estilo del estudio  
 💬 Galería · Info del lugar · Contacto  
+
+React, Tailwind, Vercel, Git
 > *Podés descargar el código y adaptarlo a tu gusto.*
 
 ---
@@ -38,6 +41,7 @@ Sistema completo para administrar carreras, materias, alumnos y notas.
 🔧 CRUD · Validaciones · Clases y lógica de negocio · Persistencia local  
 📌 Pensado para escalar en instituciones educativas.
 
+Python, Sqlite
 ---
 
 ### 📊 Análisis de ventas en eBay
