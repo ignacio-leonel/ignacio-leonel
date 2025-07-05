@@ -3,7 +3,7 @@
 **Desarrollador Front end jr con conocimientos de Back, SEO**  
 💻 JavaScript · TypeScript · Python · Java · React · Node.js  
 📍 José C. Paz, Buenos Aires, Argentina  
-🔗 [LinkedIn](https://www.linkedin.com/in/ignacio-leonel-maldonado) · [Sitio Web - Nacho Web](https://nachoweb.ar)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ignaciomaldo) · [Sitio Web - Nacho Web](https://nachoweb.ar)  
 
 ---
 
