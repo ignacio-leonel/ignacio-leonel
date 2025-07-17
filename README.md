@@ -1,18 +1,17 @@
 # 👋 ¡Hola! Soy Ignacio Leonel Maldonado
-
-**Desarrollador Front end jr con conocimientos de Back, SEO**  
-💻 JavaScript · TypeScript · Python · Java · React · Node.js  
-📍 José C. Paz, Buenos Aires, Argentina  
-🔗 [LinkedIn](https://www.linkedin.com/in/ignaciomaldo) · [Sitio Web - Nacho Web](https://nachoweb.ar)  
-
+Desarrollador Frontend con orientación Full Stack
+💻 JavaScript · TypeScript · React · Node.js · Express · SQL
+📍 José C. Paz, Buenos Aires, Argentina
+🔗 LinkedIn · Sitio Web - Nacho Web
 ---
 
 ## 🚀 ¿Qué hago?
 
-- Desarrollo **frontend** con **React**, **TypeScript** y **TailwindCSS**.
-- Desarrollo **backend** con **Node.js**, **Express** y **Python**.
-- Trabajo con **bases de datos SQL y NoSQL**.
-- Me enfoco en crear proyectos funcionales, bien presentados y con impacto real en producción.
+Creo aplicaciones web funcionales y modernas con tecnologías como React, Tailwind y Node.js.
+Me ocupo tanto del frontend como del backend, con foco en la experiencia del usuario, el rendimiento y la escalabilidad.
+Trabajo con bases de datos SQL y próximamente incorporaré MongoDB a mis proyectos.
+Todos mis desarrollos están pensados para producción real: diseño, funcionalidades, deploy y seguimiento.
+
 
 ---
 
