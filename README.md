@@ -42,25 +42,6 @@ React, Tailwind, Vercel, Git
 
 ---
 
-### 🎓 Sistema de Gestión Académica (En desarrollo)
-Sistema completo para administrar carreras, materias, alumnos y notas.  
-🔧 CRUD · Validaciones · Clases y lógica de negocio · Persistencia local  
-📌 Pensado para escalar en instituciones educativas.
-
-Python, Sqlite
----
-
-### 📊 Análisis de ventas en eBay
-Exploración de datos reales usando **Python** y **Pandas**.  
-📉 Limpieza · Visualizaciones · Insights comerciales
-
----
-
-### 📈 Ventas en China
-Análisis de comportamiento de consumo en el mercado chino.  
-🧮 Estadísticas · Gráficos · Tendencias estacionales
-
----
 
 ## 🧠 Lo que aprendí
 
