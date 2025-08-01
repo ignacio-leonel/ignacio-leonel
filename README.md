@@ -1,61 +1,66 @@
-# 👋 ¡Hola! Soy Ignacio Leonel Maldonado
-Desarrollador Frontend con orientación Full Stack
-💻 JavaScript · TypeScript · React · Node.js · Express · SQL
-📍 José C. Paz, Buenos Aires, Argentina
-🔗 LinkedIn · Sitio Web - Nacho Web
+# 👨‍💻 Ignacio Maldonado
+
+**Backend Engineer | Desarrollo de APIs robustas y soluciones escalables**
+
+📍 José C. Paz, Buenos Aires, Argentina  
+💻 Node.js · Express · MongoDB · PostgreSQL · JWT · Docker · Python  
+🔗 [Portafolio](https://ignaciobackendengineer.nachoweb.com.ar/) · [LinkedIn](https://www.linkedin.com/in/ignaciomaldo/)  
+
 ---
 
 ## 🚀 ¿Qué hago?
 
-Creo aplicaciones web funcionales y modernas con tecnologías como React, Tailwind y Node.js.
-Me ocupo tanto del frontend como del backend, con foco en la experiencia del usuario, el rendimiento y la escalabilidad.
-Trabajo con bases de datos SQL y próximamente incorporaré MongoDB a mis proyectos.
-Todos mis desarrollos están pensados para producción real: diseño, funcionalidades, deploy y seguimiento.
+Construyo soluciones backend enfocadas en seguridad, rendimiento y escalabilidad.  
+Me especializo en el diseño y desarrollo de APIs REST, integraciones con bases de datos, middleware de validación y lógica de negocio.
 
+Busco siempre escribir código limpio, documentado y preparado para producción.
 
 ---
 
-## 🧩 Proyectos Destacados
+## 🧩 Proyectos destacados
 
-### 🍰 [Pastelería](https://pasteleria-rose.vercel.app/)
-Sitio web estático para un emprendimiento local.  
-✅ Catálogo · Formulario de contacto · Galería de productos  
-Typescript, React, Tailwind, Vercel, Git.
+### 🛒 [E-Commerce API REST](https://ignaciobackendengineer.nachoweb.com.ar/#/proyecto/1)  
+API robusta para una plataforma de comercio electrónico.  
+✔️ Autenticación JWT · Manejo de usuarios y roles · Productos · Carrito · Órdenes · Pagos  
+🧪 Middleware de validación · Seguridad · Documentación  
+🔗 [Código en GitHub](https://github.com/ignacio-leonel/ecommerce-api)
+
+![Imagen](https://ignaciobackendengineer.nachoweb.com.ar/images/proyectos/ecommerce-cover.jpg)
+
+---
+
+### 🎓 [Sistema de Gestión Universitaria](https://ignaciobackendengineer.nachoweb.com.ar/#/proyecto/2)  
+Backend para gestión de alumnos, carreras y materias en una universidad.  
+✔️ CRUD completo · Estado activo/inactivo · Cálculo de progreso · JSON estructurado  
+🔐 Listo para escalar e integrar con frontend o dashboard  
+🔗 [Código en GitHub](https://github.com/ignacio-leonel/university-management-api)
+
+![Imagen](https://ignaciobackendengineer.nachoweb.com.ar/images/proyectos/universidad-cover.jpg)
+
+---
+
+## 🧪 Otros proyectos (frontend y full stack)
+
+<sub>
+
+### 🍰 [Pastelería](https://pasteleria-rose.vercel.app/)  
+Catálogo estático para emprendimiento local · React · Tailwind  
 🔗 [Código](https://github.com/ignacio-leonel/pasteleria)
 
+### 🖋️ [TatooFem](https://github.com/ignacio-leonel/Sitio-web-de-Local-de-Tatuajes)  
+Sitio web personalizado para estudio de tatuajes · React · Tailwind  
+🔗 [Código](https://github.com/ignacio-leonel/Sitio-web-de-Local-de-Tatuajes)
 
-![Gallery](https://github.com/ignacio-leonel/pasteleria/blob/894ee885521124967861a9a81615ba5d11ec8290/screenshots/gallery.jpg)
-
----
-
-### 🖋️ TatooFem
-Página desarrollada para un estudio de tatuajes femeninos.  
-🎨 Diseño estético adaptado al estilo del estudio  
-💬 Galería · Info del lugar · Contacto  
-
-![Gallery](https://github.com/ignacio-leonel/Sitio-web-de-Local-de-Tatuajes/blob/96dcf428b38118f6a5594bc00aaa22fd7fb6722a/screenshots/services.jpg)
-
-
-React, Tailwind, Vercel, Git
-> *Podés descargar el código y adaptarlo a tu gusto.*
-
----
-
-
-## 🧠 Lo que aprendí
-
-- No alcanza con que “funcione”: **hosting, DNS y SEO** también importan.
-- Leer documentación y foros te ahorra **horas de frustración**.
-- **Compartir** lo que hacés te conecta con la comunidad y te hace crecer.
+</sub>
 
 ---
 
 ## 📫 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/ignacio-leonel-maldonado)  
-- 🌐 [Nacho Web](https://nachoweb.ar)  
-- 📩 ¡Estoy abierto a nuevas oportunidades y colaboraciones!
+- 🌐 [Portafolio](https://ignaciobackendengineer.nachoweb.com.ar/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ignaciomaldo/)  
+- 📧 ignaciomaldo.dev@gmail.com  
 
 ---
 
-¡Gracias por visitar mi perfil!
+Gracias por visitar mi perfil 🙌
