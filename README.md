@@ -50,6 +50,9 @@ Catálogo estático para emprendimiento local · React · Tailwind
 
 
 🔗 [Código](https://github.com/ignacio-leonel/pasteleria)
+
+
+
 ![Imagen](https://github.com/ignacio-leonel/pasteleria/blob/main/screenshots/about.jpg)
 
 
