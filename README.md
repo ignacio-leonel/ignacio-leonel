@@ -44,9 +44,13 @@ Backend para gestión de alumnos, carreras y materias en una universidad.
 <sub>
 
 ### 🍰 [Pastelería](https://pasteleria-rose.vercel.app/)  
+
+
 Catálogo estático para emprendimiento local · React · Tailwind  
+
+
 🔗 [Código](https://github.com/ignacio-leonel/pasteleria)
-![Imagen]()
+![Imagen](https://github.com/ignacio-leonel/pasteleria/blob/main/screenshots/about.jpg)
 
 
 ### 🖋️ [TatooFem](https://github.com/ignacio-leonel/Sitio-web-de-Local-de-Tatuajes)  
