@@ -34,12 +34,18 @@ API robusta para una plataforma de comercio electrónico.
 ---
 
 ### 🎓 [Sistema de Gestión Universitaria]()  
+
 Backend para gestión de alumnos, carreras y materias en una universidad.  
+
+
 ✔️ CRUD completo · Estado activo/inactivo · Cálculo de progreso · JSON estructurado  
 🔐 Listo para escalar e integrar con frontend o dashboard  
+
+
 🔗 [Código en GitHub](https://github.com/ignacio-leonel/sistema_gestion_academica)
 
-![Imagen](https://ignaciobackendengineer.nachoweb.com.ar/images/proyectos/universidad-cover.jpg)
+
+![Imagen](https://github.com/ignacio-leonel/ignacio-leonel/blob/main/sistemagestioon.png)
 
 ---
 
