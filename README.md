@@ -23,9 +23,13 @@ Busco siempre escribir código limpio, documentado y preparado para producción.
 API robusta para una plataforma de comercio electrónico.  
 ✔️ Autenticación JWT · Manejo de usuarios y roles · Productos · Carrito · Órdenes · Pagos  
 🧪 Middleware de validación · Seguridad · Documentación  
+
+
 🔗 [Código en GitHub](https://github.com/ignacio-leonel/sistemaGestionComercial)
 
-![Imagen](https://ignaciobackendengineer.nachoweb.com.ar/images/proyectos/ecommerce-cover.jpg)
+
+
+![Imagen](https://github.com/ignacio-leonel/portafolio3/blob/main/public/images/stock/venta.png)
 
 ---
 
