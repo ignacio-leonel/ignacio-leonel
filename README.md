@@ -19,21 +19,21 @@ Busco siempre escribir código limpio, documentado y preparado para producción.
 
 ## 🧩 Proyectos destacados
 
-### 🛒 [E-Commerce API REST](https://ignaciobackendengineer.nachoweb.com.ar/#/proyecto/1)  
+### 🛒 [E-Commerce API REST]()  
 API robusta para una plataforma de comercio electrónico.  
 ✔️ Autenticación JWT · Manejo de usuarios y roles · Productos · Carrito · Órdenes · Pagos  
 🧪 Middleware de validación · Seguridad · Documentación  
-🔗 [Código en GitHub](https://github.com/ignacio-leonel/ecommerce-api)
+🔗 [Código en GitHub](https://github.com/ignacio-leonel/sistemaGestionComercial)
 
 ![Imagen](https://ignaciobackendengineer.nachoweb.com.ar/images/proyectos/ecommerce-cover.jpg)
 
 ---
 
-### 🎓 [Sistema de Gestión Universitaria](https://ignaciobackendengineer.nachoweb.com.ar/#/proyecto/2)  
+### 🎓 [Sistema de Gestión Universitaria]()  
 Backend para gestión de alumnos, carreras y materias en una universidad.  
 ✔️ CRUD completo · Estado activo/inactivo · Cálculo de progreso · JSON estructurado  
 🔐 Listo para escalar e integrar con frontend o dashboard  
-🔗 [Código en GitHub](https://github.com/ignacio-leonel/university-management-api)
+🔗 [Código en GitHub](https://github.com/ignacio-leonel/sistema_gestion_academica)
 
 ![Imagen](https://ignaciobackendengineer.nachoweb.com.ar/images/proyectos/universidad-cover.jpg)
 
@@ -46,10 +46,14 @@ Backend para gestión de alumnos, carreras y materias en una universidad.
 ### 🍰 [Pastelería](https://pasteleria-rose.vercel.app/)  
 Catálogo estático para emprendimiento local · React · Tailwind  
 🔗 [Código](https://github.com/ignacio-leonel/pasteleria)
+![Imagen]()
+
 
 ### 🖋️ [TatooFem](https://github.com/ignacio-leonel/Sitio-web-de-Local-de-Tatuajes)  
 Sitio web personalizado para estudio de tatuajes · React · Tailwind  
 🔗 [Código](https://github.com/ignacio-leonel/Sitio-web-de-Local-de-Tatuajes)
+![Imagen](https://github.com/ignacio-leonel/ignacio-leonel/blob/main/hero.jpg)
+
 
 </sub>
 
@@ -59,7 +63,7 @@ Sitio web personalizado para estudio de tatuajes · React · Tailwind
 
 - 🌐 [Portafolio](https://ignaciobackendengineer.nachoweb.com.ar/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ignaciomaldo/)  
-- 📧 ignaciomaldo.dev@gmail.com  
+- 📧 ignacio.lm1991@gmail.com
 
 ---
 
