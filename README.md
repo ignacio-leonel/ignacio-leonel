@@ -28,6 +28,7 @@ El proyecto se desarrolló en equipo, usando ramas separadas para cada funcional
 
 🔗 [Código en GitHub](https://github.com/ignacio-leonel/is2-2025-grupo7)
 
+---
 
 ### 🛒 [E-Commerce API REST]()  
 API robusta para una plataforma de comercio electrónico.  
