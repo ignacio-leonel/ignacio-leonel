@@ -19,6 +19,16 @@ Busco siempre escribir código limpio, documentado y preparado para producción.
 
 ## 🧩 Proyectos destacados
 
+### 🎓 [Proyecto IS2 - Gestión de Productos](https://github.com/ignacio-leonel/is2-2025-grupo7)  
+Sistema de gestión de productos desarrollado como parte de la materia Ingeniería de Software 2.  
+✔️ Gestión de productos · Repositorio · Consola interactiva · Validaciones · Paginación  
+
+### 🤝 Trabajo en equipo
+El proyecto se desarrolló en equipo, usando ramas separadas para cada funcionalidad mientras `main` se mantuvo como base estable. Se resolvieron conflictos de merge y se integraron todas las tareas planificadas para asegurar que el sistema funcione de manera consistente.  
+
+🔗 [Código en GitHub](https://github.com/ignacio-leonel/is2-2025-grupo7)
+
+
 ### 🛒 [E-Commerce API REST]()  
 API robusta para una plataforma de comercio electrónico.  
 ✔️ Autenticación JWT · Manejo de usuarios y roles · Productos · Carrito · Órdenes · Pagos  
